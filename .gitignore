@@ -1,0 +1,31 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.mp3
+*.psd
+*.pkl
+music
+tool_package
+.idea
+*.jpg
+*.png
+*.xml
+*.mp4
+*.txt
+AutoTest
+AutoTest_1
+Aitest
+12306
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations:
+db.ini
+deploy_key_rsa
